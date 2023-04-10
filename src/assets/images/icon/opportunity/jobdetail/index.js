@@ -1,0 +1,13 @@
+export { default as insocial } from './insocial.svg';
+export { default as fbsocial } from './fbsocial.svg';
+export { default as earthsocial } from './earthsocial.svg';
+export { default as working } from './working.svg';
+export { default as location } from './location.svg';
+export { default as jobdes } from './jobdes.svg';
+export { default as testrequired } from './testrequired.svg';
+export { default as candidate } from './candidate.svg';
+export { default as requiredSkills } from './requiredSkills.svg';
+export { default as haveSkills } from './haveSkills.svg';
+export { default as calendar } from './calendar.svg';
+export { default as checkGreen } from './checkGreen.svg';
+export { default as checkBlue } from './checkBlue.svg';
